@@ -1,2 +1,2 @@
 def main():
-    pass
+    g = 2
